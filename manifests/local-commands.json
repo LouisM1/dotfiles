@@ -1,0 +1,22 @@
+[
+  {
+    "command": "f2py",
+    "old_target": "~/.local/pipx/venvs/numpy/bin/f2py",
+    "action": "Reinstall the owning application; do not copy this machine-specific symlink."
+  },
+  {
+    "command": "poetry",
+    "old_target": "~/Library/Application Support/pypoetry/venv/bin/poetry",
+    "action": "Reinstall the owning application; do not copy this machine-specific symlink."
+  },
+  {
+    "command": "numpy-config",
+    "old_target": "~/.local/pipx/venvs/numpy/bin/numpy-config",
+    "action": "Reinstall the owning application; do not copy this machine-specific symlink."
+  },
+  {
+    "command": "cursor-agent",
+    "old_target": "~/.local/share/cursor-agent/versions/2025.09.17-25b418f/cursor-agent",
+    "action": "Reinstall the owning application; do not copy this machine-specific symlink."
+  }
+]

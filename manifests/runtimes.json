@@ -1,0 +1,22 @@
+{
+  "node_versions": [
+    "v20.18.3"
+  ],
+  "nvm_default": "20",
+  "ruby_versions": [
+    "3.0.0"
+  ],
+  "ruby_default": "3.0.0",
+  "pipx": {
+    "numpy": "2.1.2"
+  },
+  "npm_global": {
+    "corepack": "0.30.0",
+    "expo-cli": "6.3.12",
+    "npm": "10.9.2",
+    "pnpm": "9.9.0",
+    "shadcn-ui": "0.9.0",
+    "vercel": "37.4.2",
+    "yarn": "1.22.22"
+  }
+}

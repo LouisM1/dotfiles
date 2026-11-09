@@ -1,0 +1,63 @@
+# Spell checker with better logic than ispell
+brew "aspell"
+# Dependency manager for Cocoa projects
+brew "cocoapods"
+# Command-line fuzzy finder written in Go
+brew "fzf"
+# OCR (Optical Character Recognition) engine
+brew "tesseract"
+# Distributed revision control system
+brew "git"
+# Graph visualization software from AT&T and Bell Labs
+brew "graphviz"
+# LLVM's OpenMP runtime library
+brew "libomp"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.12"
+# Execute binaries from Python packages in isolated environments
+brew "pipx"
+# Highly performant implementation of Python 2 in Python
+brew "pypy"
+# Ruby version manager
+brew "rbenv"
+# Terminal multiplexer
+brew "tmux"
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
+# Extremely fast Python package installer and resolver, written in Rust
+brew "uv"
+# UNIX shell (command interpreter)
+brew "zsh"
+# OpenAI's coding agent that runs in your terminal
+cask "codex"
+# Set of tools to manage resources and applications hosted on Google Cloud
+cask "gcloud-cli"
+# Full TeX Live distribution with GUI applications
+cask "mactex"
+# Open-source application manager and system cleaner
+cask "puremac"
+# Rust-based terminal
+cask "warp"
+vscode "mechatroner.rainbow-csv"
+vscode "ms-azuretools.vscode-containers"
+vscode "ms-python.debugpy"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
+vscode "ms-python.vscode-python-envs"
+vscode "ms-toolsai.jupyter"
+vscode "ms-toolsai.jupyter-keymap"
+vscode "ms-toolsai.jupyter-renderers"
+vscode "ms-toolsai.vscode-jupyter-cell-tags"
+vscode "ms-toolsai.vscode-jupyter-slideshow"
+vscode "ms-vscode-remote.remote-containers"
+vscode "openai.chatgpt"
+vscode "openai.codex-audio"
+npm "@anthropic-ai/claude-code"
+npm "@openai/codex"
+npm "ccusage"
+npm "corepack"
+npm "expo-cli"
+npm "firebase-tools"
+npm "opencode-ai"

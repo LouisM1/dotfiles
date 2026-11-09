@@ -1,0 +1,10 @@
+# Core terminal setup. Brewfile.full records the wider installed environment.
+brew "git"
+brew "zsh"
+brew "tmux"
+brew "fzf"
+brew "rbenv"
+brew "ruby-build"
+brew "uv"
+brew "pipx"
+cask "ghostty"

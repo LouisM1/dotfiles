@@ -1,0 +1,7 @@
+# Destination relative to home	Public upstream URL	Installed commit
+.oh-my-zsh	https://github.com/ohmyzsh/ohmyzsh.git	b509b1c6ed0c1ba37de12cbd37f30b2b2f61193a
+.oh-my-zsh/custom/themes/powerlevel10k	https://github.com/romkatv/powerlevel10k.git	d71edb83f9c7f045a0d528eeff3445ec3d518d71
+.oh-my-zsh/custom/plugins/zsh-autosuggestions	https://github.com/zsh-users/zsh-autosuggestions.git	85919cd1ffa7d2d5412f6d3fe437ebdbeeec4fc5
+.tmux/plugins/tpm	https://github.com/tmux-plugins/tpm.git	e261deb1b47614eed3400089ce7197dc68acc4eb
+.tmux/plugins/minimal-tmux-status	https://github.com/niksingh710/minimal-tmux-status.git	4e6fa277e6e3aa0bd7849012ecd6b70258627920
+.nvm	https://github.com/nvm-sh/nvm.git	bab86d5de571015b63fd8fc30b47bbe072a1290e

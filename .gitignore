@@ -1,0 +1,17 @@
+# Local secrets and generated files
+.DS_Store
+.env
+.env.*
+*.local
+*.local.zsh
+*.pem
+*.key
+*.p12
+*.pfx
+.zsh_history
+.bash_history
+.ssh/
+.aws/
+.gnupg/
+backups/
+*.zwc
